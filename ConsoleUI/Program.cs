@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Business.Concrete;
+using Core.Entities.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
@@ -11,10 +12,15 @@ class Program
 {
     static void Main(string[] args)
     {
-       // ProductTest();
+        // ProductTest();
         // CategoryTest();
 
-
+        UserManager usermanager = new UserManager(new EfUserDal());
+        var user = usermanager.GetByMail("engin@engin.com");
+        foreach (var claim in usermanager.GetClaims(user))
+        {
+            Console.WriteLine(claim.Name);
+        }
 
     }
 
