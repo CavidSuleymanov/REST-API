@@ -3334,11 +3334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3360,8 +3360,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Core\\Core.csproj"
+            "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Core\\Core.csproj"
             }
           }
         }

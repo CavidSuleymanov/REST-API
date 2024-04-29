@@ -3378,11 +3378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\ilkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Business\\obj\\",
+      "outputPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3404,11 +3404,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ilkin\\source\\repos\\MyFinalProject2\\Entities\\Entities.csproj"
+            "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ilkin\\source\\repos\\cavid\\MyFinalProject2\\Entities\\Entities.csproj"
             }
           }
         }
